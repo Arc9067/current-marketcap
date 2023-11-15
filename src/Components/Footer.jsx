@@ -15,7 +15,7 @@ function Footer() {
           </div>
         </a>
         <div className="flex items-center gap-1">
-          <a href="https://twitter.com/FuckFTXeth">
+          <a href="https://twitter.com/">
             <svg
               width="40"
               height="40"
@@ -35,7 +35,7 @@ function Footer() {
               />
             </svg>
           </a>
-          <a href="https://t.me/FuckFTXeth">
+          <a href="https://t.me/NameEqualsCurrentMkcap">
             <svg
               width="41"
               height="40"

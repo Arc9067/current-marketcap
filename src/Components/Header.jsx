@@ -35,7 +35,7 @@ function Header() {
               />
             </svg>
           </a>
-          <a href="https://t.me/">
+          <a href="https://t.me/NameEqualsCurrentMkcap">
             <svg
               width="31"
               height="30"
